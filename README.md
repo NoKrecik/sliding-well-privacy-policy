@@ -7,8 +7,6 @@
 We respect your privacy and are committed to protecting it.  
 This app does **not collect, store, or share any personal or non-personal data**.
 
----
-
 ## Information We Collect
 None.  
 The app does not collect or transmit any user data.
@@ -21,5 +19,5 @@ Our app is suitable for all ages and complies with COPPA and GDPR standards.
 
 ## Contact
 If you have any questions about this Privacy Policy, contact us at:  
-📧 lazymolestudio@gmail.com
+📧 [lazymolestudio@gmail.com](mailto:lazymolestudio@gmail.com)
 
